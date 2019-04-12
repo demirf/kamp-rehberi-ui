@@ -1,0 +1,25 @@
+.Header {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+  .Header a {
+    padding-left: 10px;
+    padding-right: 10px; }
+  .Header-nav {
+    margin-left: auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; }
+  .Header-logo img {
+    width: 100px; }
+  .Header a {
+    color: black;
+    font-family: 'Raleway', sans-serif; }

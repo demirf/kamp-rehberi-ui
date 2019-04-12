@@ -1,0 +1,34 @@
+.Header{
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  align-items: center;
+
+  a{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  &-nav{
+    margin-left: auto;
+    display: flex;
+
+
+
+  }
+
+  &-logo{
+    img{
+      width: 100px;
+    }
+  }
+
+  a{
+    color: black;
+    font-family: 'Raleway', sans-serif;
+
+  }
+}
